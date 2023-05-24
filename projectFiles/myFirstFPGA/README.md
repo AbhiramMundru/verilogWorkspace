@@ -1,4 +1,4 @@
-#Design Flow in Quartus Prime
+# Design Flow in Quartus Prime
 <ol>
 <li>Create a new project and add Verilog file</li>
 <li>Assign pins</li>
