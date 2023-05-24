@@ -17,7 +17,7 @@ This repository contains a collection of Quartus Prime projects implemented on t
 
 ## Introduction
 
-The DE10-Nano development kit is a powerful platform for developing FPGA-based applications. This repository aims to provide a collection of Quartus Prime projects that can serve as a starting point for your own FPGA projects on the DE10-Nano board. Each project is implemented in Verilog, a hardware description language widely used for FPGA development.
+The DE10-Nano development kit is a powerful platform for developing FPGA-based applications. This repository aims to provide a collection of Quartus Prime projects on the DE10-Nano board. Each project is implemented in Verilog, a hardware description language widely used in FPGA implementation.
 
 ## Getting Started
 
@@ -27,9 +27,9 @@ Before you can use the projects in this repository, you need to have the followi
 
 1. Quartus Prime: Make sure you have Quartus Prime installed on your development machine. You can download the latest version of Quartus Prime from the Intel website.
 
-2. DE10-Nano Development Kit: You need to have the DE10-Nano development kit, which is based on the Cyclone V FPGA. If you don't have one, you can purchase it from Terasic or authorized distributors.
+2. DE10-Nano Development Kit: You need to have the DE10-Nano development kit, which is based on the Cyclone V FPGA. Pin assignment for the projects is based on schematics of DE10-Nano. If you're using any other FPGA, make sure to change the pin assignment by taking schematics as reference.
 
-### Installation
+### Implementation
 
 To get started, follow these steps:
 
