@@ -35,7 +35,7 @@ To get started, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/quartus-prime-projects-de10-nano.git
+git clone https://github.com/AbhiramMundru/verilogWorkspace.git 
 
 
 2. Open the Quartus Prime software and select the desired project from the repository.
