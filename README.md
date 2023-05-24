@@ -7,7 +7,7 @@ This repository contains a collection of Quartus Prime projects implemented on t
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Implementation](#implementation)
 <!--
 - [Project Descriptions](#project-descriptions)
   - [Project 1: Example Project](#project-1-example-project)
